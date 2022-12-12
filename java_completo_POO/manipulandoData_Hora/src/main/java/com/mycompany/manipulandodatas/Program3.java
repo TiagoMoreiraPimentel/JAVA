@@ -12,8 +12,9 @@ public class Program3 {
 		LocalDate d04 = LocalDate.parse("2022-07-20");
 		LocalDateTime d05 = LocalDateTime.parse("2022-07-20T01:30:26");
 		Instant d06 = Instant.parse("2022-07-20T01:30:26Z");
-
+		// instanciando uma data global a partir do meu computador.
 		LocalDate r1 = LocalDate.ofInstant(d06, ZoneId.systemDefault());
+		// instanciando uma data a partir de um fuso horario selecionado.
 		LocalDate r2 = LocalDate.ofInstant(d06, ZoneId.of("Portugal"));
 		LocalDateTime r3 = LocalDateTime.ofInstant(d06, ZoneId.systemDefault());
 		LocalDateTime r4 = LocalDateTime.ofInstant(d06, ZoneId.of("Portugal"));
