@@ -10,11 +10,23 @@ Venha fazer parte da nossa comunidade.
 
 #JuntosImparaveis
 
- Nosso servidor do Discord:
+Nosso servidor do Discord:
 https://discord.gg/KMacw7AggY
+
+Elaborei um vídeo para que você aprenda usar o nosso Discord 🤩
+https://www.youtube.com/watch?v=gnehYWgkIWg
 
 Materiais de apoio do curso:
 https://github.com/TiagoMoreiraPimentel/JAVA/tree/main/Curso_Em_JAVA
+
+Link do convite:
+https://classroom.google.com/c/NTQwNzkxMDEyMzY2?cjc=cnwcyef
+
+Código da turma:
+cnwcyef
+
+Link do vídeo explicativo:
+https://www.youtube.com/watch?v=nmUD4L7wJPk
 
 YouTube:
 https://www.youtube.com/channel/UC_H3Xfeyx1lkfegfJlsSX6Q/playlists
