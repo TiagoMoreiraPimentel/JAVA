@@ -19,20 +19,20 @@ https://www.youtube.com/watch?v=gnehYWgkIWg
 Materiais de apoio do curso:
 https://github.com/TiagoMoreiraPimentel/JAVA/tree/main/Curso_Em_JAVA
 
-Link do convite:
+Link do convite classroom:
 https://classroom.google.com/c/NTQwNzkxMDEyMzY2?cjc=cnwcyef
 
 Código da turma:
 cnwcyef
 
-Link do vídeo explicativo:
+Link do vídeo explicativo classroom:
 https://www.youtube.com/watch?v=nmUD4L7wJPk
 
-YouTube:
+Nosso canal do YouTube:
 https://www.youtube.com/channel/UC_H3Xfeyx1lkfegfJlsSX6Q/playlists
 
-Nosso grupo do Whatsapp:
-https://chat.whatsapp.com/Lr6ImQEmJRV4NNT5CJTJcd
+Video ensinando configurar o ambiente do nosso computador para trabalhar com JAVA:
+https://www.youtube.com/watch?v=8B-SQMQ22wM
 
 Facebook:
 https://www.facebook.com/groups/993278221630748/?ref=share
